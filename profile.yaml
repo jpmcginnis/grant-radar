@@ -1,0 +1,70 @@
+# JP's research profile — fed into the fit scorer and the aims-skeleton generator.
+# Edit this to tune what the radar surfaces.
+
+investigator:
+  name: JP McGinnis, MD, PhD
+  institution: Baylor College of Medicine
+  department: Neurosurgery
+  faculty_start: 2027-07-01
+  current_rank: Instructor
+  role_model: infrastructure-scientist (Broad/Allen Institute pattern)
+
+eligibility:
+  career_stage:
+    - early_career_k_eligible
+    - new_investigator (NIH ESI window)
+    - physician_scientist
+  clinical_credentials:
+    - MD
+    - PhD
+    - neurosurgery_residency_complete_2026
+  nominated_awards_eligible:  # BCM can nominate for these
+    - Searle Scholars
+    - Pew Biomedical Scholars
+    - Hartwell Individual Biomedical Research Award
+    - Sloan Research Fellowship
+
+research_pillars:
+  primary:
+    - name: Human ex vivo brain slice culture platform
+      keywords: [ex vivo, brain slice, organotypic, surgical specimen, acute slice, HBDA, human brain]
+      weight: 10
+    - name: AAV capsid and enhancer engineering
+      keywords: [AAV, capsid, enhancer, cell-type specific, regulatory element, library screen, barcoded, directed evolution]
+      weight: 10
+    - name: CNS gene delivery
+      keywords: [gene therapy, CNS delivery, BBB, intrathecal, intracerebral, viral vector, delivery platform]
+      weight: 9
+    - name: Cerebrovascular neurosurgery
+      keywords: [cerebrovascular, aneurysm, AVM, moyamoya, stroke, endovascular, skull base]
+      weight: 7
+    - name: Single-cell / snATAC / scRNA infrastructure
+      keywords: [snATAC-seq, snRNA-seq, single-cell, scRNA-seq, Perturb-seq, chromatin accessibility, cell atlas]
+      weight: 8
+  secondary:
+    - name: Microfluidic BBB models
+      keywords: [microfluidic, blood-brain barrier, organ-on-chip]
+      weight: 5
+    - name: Translational research training
+      keywords: [post-baccalaureate, translational training, pipeline program]
+      weight: 4
+
+exclude_terms:
+  # If an opportunity is dominated by these and misses the pillars, downrank
+  - veterinary only
+  - plant sciences
+  - agriculture
+  - clinical trial phase III
+  - purely epidemiological
+
+preferences:
+  budget_floor_usd: 50000       # ignore anything smaller than this per year
+  budget_ceiling_usd: 5000000   # cap on what to surface
+  duration_min_months: 12
+  prefer_direct_cost_mechanisms: true
+  flag_if_requires:
+    - letter_of_intent
+    - preliminary_data_required
+    - institutional_nomination
+    - permanent_us_resident_only
+    - us_citizen_only           # JP is a US citizen; flag only for awareness

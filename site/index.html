@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Grant Radar — JP McGinnis</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Grant Radar</h1>
+  <p class="subtitle">
+    Early-career K · R-mechanisms · Private innovation · DoD / NSF / ARPA-H
+    <span id="updated"></span>
+  </p>
+</header>
+
+<nav class="tabs">
+  <button class="tab active" data-view="table">Table</button>
+  <button class="tab" data-view="calendar">Calendar</button>
+  <button class="tab" data-view="drafts">Drafts</button>
+</nav>
+
+<section class="filters">
+  <input id="search" type="search" placeholder="search title, sponsor, mechanism…">
+  <select id="bucket">
+    <option value="">All buckets</option>
+    <option value="early_career_k">Early-career K</option>
+    <option value="r_mechanism">R-mechanisms</option>
+    <option value="private_innovation">Private innovation</option>
+    <option value="federal_other">DoD / NSF / ARPA-H</option>
+  </select>
+  <select id="status">
+    <option value="">All statuses</option>
+    <option value="new">New</option>
+    <option value="interested">Interested</option>
+    <option value="drafting">Drafting</option>
+    <option value="submitted">Submitted</option>
+    <option value="declined">Declined</option>
+    <option value="dismissed">Dismissed</option>
+  </select>
+  <label><input type="checkbox" id="only-open"> only open deadlines</label>
+  <label><input type="checkbox" id="min-fit"> fit ≥ 50</label>
+</section>
+
+<main>
+
+<section id="view-table" class="view active">
+  <table id="opps-table">
+    <thead>
+      <tr>
+        <th data-sort="fit_score" class="num">Fit</th>
+        <th data-sort="loi_due">Due</th>
+        <th data-sort="title">Opportunity</th>
+        <th data-sort="sponsor">Sponsor</th>
+        <th data-sort="mechanism">Mech</th>
+        <th data-sort="status">Status</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+  <p class="meta" id="count"></p>
+</section>
+
+<section id="view-calendar" class="view">
+  <div id="calendar"></div>
+</section>
+
+<section id="view-drafts" class="view">
+  <ol id="drafts-list"></ol>
+</section>
+
+<div id="detail-pane" class="hidden">
+  <button class="close" aria-label="Close">×</button>
+  <div id="detail-body"></div>
+</div>
+
+</main>
+
+<footer>
+  <p>Built for JP McGinnis · pipeline runs Mondays 06:00 CT ·
+     edit <code>profile.yaml</code> to retune ·
+     edit <code>sources.yaml</code> to add feeds</p>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

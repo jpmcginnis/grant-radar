@@ -1,0 +1,235 @@
+{
+  "generated": "2026-10-27",
+  "new_this_week": [
+    {
+      "id": "8d833a441b9fb388",
+      "title": "Mentored Clinical Scientist Research Career Development Award (K08)",
+      "sponsor": "NIH NINDS",
+      "mechanism": "K08",
+      "fit_score": 71.6,
+      "fit_rationale": "pillars 22/50 (AAV capsid and enhancer engineering, CNS gene delivery) \u00b7 mechanism 20/20 \u00b7 runway 15/15 \u00b7 budget 10/10 \u00b7 eligibility 5/5",
+      "loi_due": null,
+      "app_due": "2026-12-26",
+      "source_url": "https://grants.nih.gov/grants/guide/pa-files/PA-25-287.html",
+      "has_aims": true
+    },
+    {
+      "id": "748b6a450819e010",
+      "title": "ARPA-H Resilient Systems \u2014 CNS Delivery Platforms",
+      "sponsor": "ARPA-H",
+      "mechanism": "ARPA-H",
+      "fit_score": 64.5,
+      "fit_rationale": "pillars 33/50 (Human ex vivo brain slice culture platform, AAV capsid and enhancer engineering, CNS gene delivery) \u00b7 mechanism 16/20 \u00b7 runway 3/15 \u00b7 budget 10/10 \u00b7 eligibility 2/5",
+      "loi_due": null,
+      "app_due": "2026-11-08",
+      "source_url": "https://arpa-h.gov/engage-and-transition/solicitations",
+      "has_aims": true
+    },
+    {
+      "id": "de4750030192747e",
+      "title": "Damon Runyon Innovation Award",
+      "sponsor": "Damon Runyon Cancer Research Foundation",
+      "mechanism": "Foundation",
+      "fit_score": 63.5,
+      "fit_rationale": "pillars 20/50 (Human ex vivo brain slice culture platform, Single-cell / snATAC / scRNA infrastructure) \u00b7 mechanism 20/20 \u00b7 runway 10/15 \u00b7 budget 10/10 \u00b7 eligibility 3/5",
+      "loi_due": "2026-12-01",
+      "app_due": "2027-01-10",
+      "source_url": "https://www.damonrunyon.org/for-scientists/application-guidelines/innovation-award",
+      "has_aims": true
+    },
+    {
+      "id": "eb62fdc2a672673a",
+      "title": "Allen Distinguished Investigator Awards",
+      "sponsor": "Allen Institute / Paul G. Allen Frontiers Group",
+      "mechanism": "Foundation",
+      "fit_score": 59.0,
+      "fit_rationale": "pillars 20/50 (Human ex vivo brain slice culture platform, Single-cell / snATAC / scRNA infrastructure) \u00b7 mechanism 20/20 \u00b7 runway 15/15 \u00b7 budget 2/10 \u00b7 eligibility 2/5",
+      "loi_due": "2027-03-16",
+      "app_due": "2027-05-05",
+      "source_url": "https://alleninstitute.org/division/frontiers-group/",
+      "has_aims": false
+    },
+    {
+      "id": "67dfe2baa1368d6e",
+      "title": "Exploratory/Developmental Research Grant (R21)",
+      "sponsor": "NIH NINDS",
+      "mechanism": "R21",
+      "fit_score": 52.6,
+      "fit_rationale": "pillars 9/50 (Single-cell / snATAC / scRNA infrastructure) \u00b7 mechanism 16/20 \u00b7 runway 15/15 \u00b7 budget 10/10 \u00b7 eligibility 2/5",
+      "loi_due": null,
+      "app_due": "2026-12-11",
+      "source_url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-191.html",
+      "has_aims": false
+    },
+    {
+      "id": "1c496e2f0e0277ae",
+      "title": "Traumatic Brain Injury and Psychological Health Research Program",
+      "sponsor": "DoD CDMRP",
+      "mechanism": "CDMRP",
+      "fit_score": 47.5,
+      "fit_rationale": "pillars 8/50 (Cerebrovascular neurosurgery) \u00b7 mechanism 12/20 \u00b7 runway 15/15 \u00b7 budget 10/10 \u00b7 eligibility 2/5",
+      "loi_due": null,
+      "app_due": "2026-12-21",
+      "source_url": "https://cdmrp.health.mil/funding/pa",
+      "has_aims": false
+    },
+    {
+      "id": "635b2983bb1b7e3a",
+      "title": "Searle Scholars Program",
+      "sponsor": "Searle Scholars Program",
+      "mechanism": "Foundation",
+      "fit_score": 47.5,
+      "fit_rationale": "pillars 0/50 (no primary matches) \u00b7 mechanism 20/20 \u00b7 runway 15/15 \u00b7 budget 10/10 \u00b7 eligibility 2/5",
+      "loi_due": null,
+      "app_due": "2027-02-04",
+      "source_url": "https://www.searlescholars.net/apply/",
+      "has_aims": false
+    },
+    {
+      "id": "245d332ebe1242a5",
+      "title": "McKnight Technological Innovations in Neuroscience",
+      "sponsor": "McKnight Endowment Fund",
+      "mechanism": "Foundation",
+      "fit_score": 47.5,
+      "fit_rationale": "pillars 0/50 (no primary matches) \u00b7 mechanism 20/20 \u00b7 runway 15/15 \u00b7 budget 10/10 \u00b7 eligibility 2/5",
+      "loi_due": null,
+      "app_due": "2027-01-15",
+      "source_url": "https://www.mcknight.org/programs/the-mcknight-endowment-fund-for-neuroscience/",
+      "has_aims": false
+    },
+    {
+      "id": "2ab7839358034fda",
+      "title": "BWF Career Awards for Medical Scientists",
+      "sponsor": "Burroughs Wellcome Fund",
+      "mechanism": "Foundation",
+      "fit_score": 43.5,
+      "fit_rationale": "pillars 0/50 (no primary matches) \u00b7 mechanism 20/20 \u00b7 runway 10/15 \u00b7 budget 10/10 \u00b7 eligibility 4/5",
+      "loi_due": "2026-11-17",
+      "app_due": "2027-01-25",
+      "source_url": "https://www.bwfund.org/funding-opportunities/biomedical-sciences/career-awards-for-medical-scientists/",
+      "has_aims": false
+    }
+  ],
+  "top_three": [
+    {
+      "id": "8d833a441b9fb388",
+      "title": "Mentored Clinical Scientist Research Career Development Award (K08)",
+      "sponsor": "NIH NINDS",
+      "mechanism": "K08",
+      "fit_score": 71.6,
+      "fit_rationale": "pillars 22/50 (AAV capsid and enhancer engineering, CNS gene delivery) \u00b7 mechanism 20/20 \u00b7 runway 15/15 \u00b7 budget 10/10 \u00b7 eligibility 5/5",
+      "loi_due": null,
+      "app_due": "2026-12-26",
+      "source_url": "https://grants.nih.gov/grants/guide/pa-files/PA-25-287.html",
+      "has_aims": true
+    },
+    {
+      "id": "748b6a450819e010",
+      "title": "ARPA-H Resilient Systems \u2014 CNS Delivery Platforms",
+      "sponsor": "ARPA-H",
+      "mechanism": "ARPA-H",
+      "fit_score": 64.5,
+      "fit_rationale": "pillars 33/50 (Human ex vivo brain slice culture platform, AAV capsid and enhancer engineering, CNS gene delivery) \u00b7 mechanism 16/20 \u00b7 runway 3/15 \u00b7 budget 10/10 \u00b7 eligibility 2/5",
+      "loi_due": null,
+      "app_due": "2026-11-08",
+      "source_url": "https://arpa-h.gov/engage-and-transition/solicitations",
+      "has_aims": true
+    },
+    {
+      "id": "de4750030192747e",
+      "title": "Damon Runyon Innovation Award",
+      "sponsor": "Damon Runyon Cancer Research Foundation",
+      "mechanism": "Foundation",
+      "fit_score": 63.5,
+      "fit_rationale": "pillars 20/50 (Human ex vivo brain slice culture platform, Single-cell / snATAC / scRNA infrastructure) \u00b7 mechanism 20/20 \u00b7 runway 10/15 \u00b7 budget 10/10 \u00b7 eligibility 3/5",
+      "loi_due": "2026-12-01",
+      "app_due": "2027-01-10",
+      "source_url": "https://www.damonrunyon.org/for-scientists/application-guidelines/innovation-award",
+      "has_aims": true
+    }
+  ],
+  "upcoming_deadlines": [
+    {
+      "id": "748b6a450819e010",
+      "title": "ARPA-H Resilient Systems \u2014 CNS Delivery Platforms",
+      "sponsor": "ARPA-H",
+      "due": "2026-11-08",
+      "due_kind": "App",
+      "days_out": 12,
+      "fit_score": 64.5,
+      "source_url": "https://arpa-h.gov/engage-and-transition/solicitations"
+    },
+    {
+      "id": "2ab7839358034fda",
+      "title": "BWF Career Awards for Medical Scientists",
+      "sponsor": "Burroughs Wellcome Fund",
+      "due": "2026-11-17",
+      "due_kind": "LOI",
+      "days_out": 21,
+      "fit_score": 43.5,
+      "source_url": "https://www.bwfund.org/funding-opportunities/biomedical-sciences/career-awards-for-medical-scientists/"
+    },
+    {
+      "id": "de4750030192747e",
+      "title": "Damon Runyon Innovation Award",
+      "sponsor": "Damon Runyon Cancer Research Foundation",
+      "due": "2026-12-01",
+      "due_kind": "LOI",
+      "days_out": 35,
+      "fit_score": 63.5,
+      "source_url": "https://www.damonrunyon.org/for-scientists/application-guidelines/innovation-award"
+    },
+    {
+      "id": "67dfe2baa1368d6e",
+      "title": "Exploratory/Developmental Research Grant (R21)",
+      "sponsor": "NIH NINDS",
+      "due": "2026-12-11",
+      "due_kind": "App",
+      "days_out": 45,
+      "fit_score": 52.6,
+      "source_url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-191.html"
+    },
+    {
+      "id": "1c496e2f0e0277ae",
+      "title": "Traumatic Brain Injury and Psychological Health Research Program",
+      "sponsor": "DoD CDMRP",
+      "due": "2026-12-21",
+      "due_kind": "App",
+      "days_out": 55,
+      "fit_score": 47.5,
+      "source_url": "https://cdmrp.health.mil/funding/pa"
+    },
+    {
+      "id": "8d833a441b9fb388",
+      "title": "Mentored Clinical Scientist Research Career Development Award (K08)",
+      "sponsor": "NIH NINDS",
+      "due": "2026-12-26",
+      "due_kind": "App",
+      "days_out": 60,
+      "fit_score": 71.6,
+      "source_url": "https://grants.nih.gov/grants/guide/pa-files/PA-25-287.html"
+    },
+    {
+      "id": "245d332ebe1242a5",
+      "title": "McKnight Technological Innovations in Neuroscience",
+      "sponsor": "McKnight Endowment Fund",
+      "due": "2027-01-15",
+      "due_kind": "App",
+      "days_out": 80,
+      "fit_score": 47.5,
+      "source_url": "https://www.mcknight.org/programs/the-mcknight-endowment-fund-for-neuroscience/"
+    },
+    {
+      "id": "635b2983bb1b7e3a",
+      "title": "Searle Scholars Program",
+      "sponsor": "Searle Scholars Program",
+      "due": "2027-02-04",
+      "due_kind": "App",
+      "days_out": 100,
+      "fit_score": 47.5,
+      "source_url": "https://www.searlescholars.net/apply/"
+    }
+  ],
+  "total_tracked": 9,
+  "new_count": 9
+}

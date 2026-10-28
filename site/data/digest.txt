@@ -1,0 +1,75 @@
+GRANT RADAR — 2026-10-27
+=================================================================
+
+9 new opportunities this week · 9 tracked total
+
+
+TOP 3 — AIMS SKELETONS ATTACHED
+─────────────────────────────────────────────────────────────────
+
+1. Mentored Clinical Scientist Research Career Development Award (K08)
+   NIH NINDS · K08
+   DUE 2026-12-26 (application) · 60 days out
+   Fit 71.6/100 — pillars 22/50 (AAV capsid and enhancer engineering, CNS gene delivery) · mechanism 20/20 · runway 15/15 · budget 10/10 · eligibility 5/5
+   ★ Aims draft ready
+   → https://grants.nih.gov/grants/guide/pa-files/PA-25-287.html
+
+2. ARPA-H Resilient Systems — CNS Delivery Platforms
+   ARPA-H · ARPA-H
+   DUE 2026-11-08 (application) · 12 DAYS OUT — tight
+   Fit 64.5/100 — pillars 33/50 (Human ex vivo brain slice culture platform, AAV capsid and enhancer engineering, CNS gene delivery) · mechanism 16/20 · runway 3/15 · budget 10/10 · eligibility 2/5
+   ★ Aims draft ready
+   → https://arpa-h.gov/engage-and-transition/solicitations
+
+3. Damon Runyon Innovation Award
+   Damon Runyon Cancer Research Foundation · Foundation
+   DUE 2027-01-10 (application) · 75 days out
+   Fit 63.5/100 — pillars 20/50 (Human ex vivo brain slice culture platform, Single-cell / snATAC / scRNA infrastructure) · mechanism 20/20 · runway 10/15 · budget 10/10 · eligibility 3/5
+   ★ Aims draft ready
+   → https://www.damonrunyon.org/for-scientists/application-guidelines/innovation-award
+
+
+UPCOMING DEADLINES (NEXT 120 DAYS)
+─────────────────────────────────────────────────────────────────
+
+ 12d  2026-11-08 (App)  ARPA-H Resilient Systems — CNS Delivery Platforms     fit 64
+ 21d  2026-11-17 (LOI)  BWF Career Awards for Medical Scientists              fit 44
+ 35d  2026-12-01 (LOI)  Damon Runyon Innovation Award                         fit 64
+ 45d  2026-12-11 (App)  Exploratory/Developmental Research Grant (R21)        fit 53
+ 55d  2026-12-21 (App)  Traumatic Brain Injury and Psychological Health...    fit 48
+ 60d  2026-12-26 (App)  Mentored Clinical Scientist Research Career Dev...    fit 72
+ 80d  2027-01-15 (App)  McKnight Technological Innovations in Neuroscience    fit 48
+100d  2027-02-04 (App)  Searle Scholars Program                               fit 48
+
+
+ALSO NEW THIS WEEK
+─────────────────────────────────────────────────────────────────
+
+Allen Distinguished Investigator Awards — fit 59.0
+  Allen Institute / Paul G. Allen Frontiers Group · Foundation · Due 2027-05-05 (App)
+  https://alleninstitute.org/division/frontiers-group/
+
+Exploratory/Developmental Research Grant (R21) — fit 52.6
+  NIH NINDS · R21 · Due 2026-12-11 (App)
+  https://grants.nih.gov/grants/guide/pa-files/PAR-24-191.html
+
+Traumatic Brain Injury and Psychological Health Research Program — fit 47.5
+  DoD CDMRP · CDMRP · Due 2026-12-21 (App)
+  https://cdmrp.health.mil/funding/pa
+
+Searle Scholars Program — fit 47.5
+  Searle Scholars Program · Foundation · Due 2027-02-04 (App)
+  https://www.searlescholars.net/apply/
+
+McKnight Technological Innovations in Neuroscience — fit 47.5
+  McKnight Endowment Fund · Foundation · Due 2027-01-15 (App)
+  https://www.mcknight.org/programs/the-mcknight-endowment-fund-for-neuroscience/
+
+BWF Career Awards for Medical Scientists — fit 43.5
+  Burroughs Wellcome Fund · Foundation · Due 2027-01-25 (App)
+  https://www.bwfund.org/funding-opportunities/biomedical-sciences/career-awards-for-medical-scientists/
+
+─────────────────────────────────────────────────────────────────
+Open the full dashboard: https://jpmcginnis1.github.io/grant-radar/
+Edit profile.yaml to retune · edit sources.yaml to add feeds
+Replying to this email does nothing.

@@ -1,0 +1,137 @@
+# Source registry for the grant radar
+# Each source is a named feed with a scraper type and a category tag.
+# Categories tie back to the fit-scoring rubric.
+
+sources:
+  # ===== NIH =====
+  - name: nih_guide_all
+    scraper: nih_guide
+    category: nih
+    # NIH Guide weekly funding opportunities, filtered server-side by activity code
+    activity_codes: [K08, K22, K99, K23, R00, R01, R21, R03, DP5, DP1, DP2, UG3, UH3]
+    description: NIH Guide for Grants and Contracts, filtered to career development and research mechanisms relevant to JP
+
+  - name: nih_reporter_neuro
+    scraper: nih_reporter
+    category: nih
+    terms: [AAV, enhancer, "cell-type specific", "ex vivo", "brain slice", "cerebral vascular", neurosurgery]
+    description: NIH RePORTER funded projects — not opportunities, but useful for seeing what's getting funded in your space
+
+  # ===== Private foundations =====
+  - name: damon_runyon
+    scraper: html_generic
+    category: foundation
+    url: https://www.damonrunyon.org/for-scientists/application-guidelines
+    description: Damon Runyon Innovation Award, Clinical Investigator, Dale F. Frey, Fellowship
+
+  - name: searle_scholars
+    scraper: html_generic
+    category: foundation
+    url: https://www.searlescholars.net/apply/
+    description: Searle Scholars Program — early-career BCM is eligible
+
+  - name: pew_biomedical
+    scraper: html_generic
+    category: foundation
+    url: https://www.pewtrusts.org/en/projects/pew-biomedical-scholars
+    description: Pew Biomedical Scholars — early-career, BCM-nominated
+
+  - name: bwf_cams
+    scraper: html_generic
+    category: foundation
+    url: https://www.bwfund.org/funding-opportunities/biomedical-sciences/career-awards-for-medical-scientists/
+    description: Burroughs Wellcome Fund CAMS — physician-scientist, perfect profile match
+
+  - name: doris_duke
+    scraper: html_generic
+    category: foundation
+    url: https://www.dorisduke.org/our-programs/medical-research/
+    description: Doris Duke CSDA and other medical research awards
+
+  - name: mcknight_endowment
+    scraper: html_generic
+    category: foundation
+    url: https://www.mcknight.org/programs/the-mcknight-endowment-fund-for-neuroscience/
+    description: McKnight Neuroscience Scholar, Technological Innovations, Memory & Cognitive Disorders
+
+  - name: sloan_research
+    scraper: html_generic
+    category: foundation
+    url: https://sloan.org/fellowships/
+    description: Sloan Research Fellowships — neuroscience track
+
+  - name: allen_distinguished
+    scraper: html_generic
+    category: foundation
+    url: https://alleninstitute.org/division/frontiers-group/
+    description: Allen Distinguished Investigator — direct substrate for infrastructure-scientist framing
+
+  - name: dana_foundation
+    scraper: html_generic
+    category: foundation
+    url: https://dana.org/grants/
+    description: Dana Foundation neuroscience grants
+
+  - name: brain_research_foundation
+    scraper: html_generic
+    category: foundation
+    url: https://www.thebrf.org/grant-programs/
+    description: Brain Research Foundation Scientific Innovations Award, Fay/Frank Seed Grant
+
+  - name: hartwell_foundation
+    scraper: html_generic
+    category: foundation
+    url: https://www.thehartwellfoundation.org/individual-biomedical-research-award
+    description: Hartwell Individual Biomedical Research Award — pediatric, BCM-nominated
+
+  - name: whitehall_foundation
+    scraper: html_generic
+    category: foundation
+    url: https://www.whitehall.org/grants/
+    description: Whitehall Foundation neurobiology research grants
+
+  # ===== DoD / CDMRP =====
+  - name: cdmrp_neurotrauma
+    scraper: html_generic
+    url: https://cdmrp.health.mil/funding/pa
+    category: dod
+    description: CDMRP Program Announcements — PRMRP, Neurotoxin, TBI/PH, Peer Reviewed Medical
+
+  # ===== NSF =====
+  - name: nsf_bio
+    scraper: nsf_funding
+    category: nsf
+    directorate: BIO
+    description: NSF Directorate for Biological Sciences
+
+  - name: nsf_neuronex
+    scraper: nsf_funding
+    category: nsf
+    program: NeuroNex
+    description: NSF NeuroNex — tech development for neuroscience
+
+  # ===== ARPA-H =====
+  - name: arpa_h_solicitations
+    scraper: html_generic
+    url: https://arpa-h.gov/engage-and-transition/solicitations
+    category: arpa_h
+    description: ARPA-H open solicitations — delivery platforms, Resilient Systems, Scalable Solutions
+
+  # ===== Industry / consortia (lightweight) =====
+  - name: chan_zuckerberg
+    scraper: html_generic
+    url: https://chanzuckerberg.com/rfa/
+    category: foundation
+    description: CZI open RFAs — single-cell, cell atlases, open science infrastructure
+
+# Mechanism category → bucket mapping used by the scorer
+mechanism_buckets:
+  early_career_k:
+    activity_codes: [K08, K22, K99, K23, K01, K25]
+    foundation_programs: [searle, pew, bwf_cams, doris_duke_csda, damon_runyon_clinical, sloan, mcknight_scholar, hartwell, brain_research_foundation_sia]
+  r_mechanisms:
+    activity_codes: [R01, R21, R03, R35, R37, DP1, DP2, DP5]
+  private_innovation:
+    foundation_programs: [damon_runyon_innovation, allen_distinguished, mcknight_tech_innovations, whitehall, chan_zuckerberg, dana]
+  federal_other:
+    agencies: [CDMRP, NSF, ARPA-H, DARPA, IARPA]
