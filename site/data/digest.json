@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28",
+  "generated": "2026-11-02",
   "new_this_week": [],
   "top_three": [],
   "upcoming_deadlines": [
@@ -9,7 +9,7 @@
       "sponsor": "ARPA-H",
       "due": "2026-11-08",
       "due_kind": "App",
-      "days_out": 11,
+      "days_out": 6,
       "fit_score": 64.5,
       "source_url": "https://arpa-h.gov/engage-and-transition/solicitations"
     },
@@ -19,7 +19,7 @@
       "sponsor": "Burroughs Wellcome Fund",
       "due": "2026-11-17",
       "due_kind": "LOI",
-      "days_out": 20,
+      "days_out": 15,
       "fit_score": 43.5,
       "source_url": "https://www.bwfund.org/funding-opportunities/biomedical-sciences/career-awards-for-medical-scientists/"
     },
@@ -29,7 +29,7 @@
       "sponsor": "Damon Runyon Cancer Research Foundation",
       "due": "2026-12-01",
       "due_kind": "LOI",
-      "days_out": 34,
+      "days_out": 29,
       "fit_score": 63.5,
       "source_url": "https://www.damonrunyon.org/for-scientists/application-guidelines/innovation-award"
     },
@@ -39,7 +39,7 @@
       "sponsor": "NIH NINDS",
       "due": "2026-12-11",
       "due_kind": "App",
-      "days_out": 44,
+      "days_out": 39,
       "fit_score": 52.6,
       "source_url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-191.html"
     },
@@ -49,7 +49,7 @@
       "sponsor": "DoD CDMRP",
       "due": "2026-12-21",
       "due_kind": "App",
-      "days_out": 54,
+      "days_out": 49,
       "fit_score": 47.5,
       "source_url": "https://cdmrp.health.mil/funding/pa"
     },
@@ -59,7 +59,7 @@
       "sponsor": "NIH NINDS",
       "due": "2026-12-26",
       "due_kind": "App",
-      "days_out": 59,
+      "days_out": 54,
       "fit_score": 71.6,
       "source_url": "https://grants.nih.gov/grants/guide/pa-files/PA-25-287.html"
     },
@@ -69,7 +69,7 @@
       "sponsor": "McKnight Endowment Fund",
       "due": "2027-01-15",
       "due_kind": "App",
-      "days_out": 79,
+      "days_out": 74,
       "fit_score": 47.5,
       "source_url": "https://www.mcknight.org/programs/the-mcknight-endowment-fund-for-neuroscience/"
     },
@@ -79,7 +79,7 @@
       "sponsor": "Searle Scholars Program",
       "due": "2027-02-04",
       "due_kind": "App",
-      "days_out": 99,
+      "days_out": 94,
       "fit_score": 47.5,
       "source_url": "https://www.searlescholars.net/apply/"
     }
