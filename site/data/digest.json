@@ -1,25 +1,173 @@
 {
-  "generated": "2026-11-02",
-  "new_this_week": [],
-  "top_three": [],
-  "upcoming_deadlines": [
+  "generated": "2026-11-09",
+  "new_this_week": [
     {
-      "id": "748b6a450819e010",
-      "title": "ARPA-H Resilient Systems \u2014 CNS Delivery Platforms",
-      "sponsor": "ARPA-H",
-      "due": "2026-11-08",
-      "due_kind": "App",
-      "days_out": 6,
-      "fit_score": 64.5,
-      "source_url": "https://arpa-h.gov/engage-and-transition/solicitations"
+      "id": "b8c02931bd0e16ff",
+      "title": "[Funded ref] Targeted Gene Delivery to Trigeminal Nociceptors",
+      "sponsor": "National Institute of Dental and Craniofacial Research",
+      "mechanism": "R01",
+      "fit_score": 69.2,
+      "fit_rationale": "pillars 31/50 (AAV capsid and enhancer engineering, CNS gene delivery, Single-cell / snATAC / scRNA infrastructure) \u00b7 mechanism 16/20 \u00b7 runway 10/15 \u00b7 budget 10/10 \u00b7 eligibility 2/5",
+      "loi_due": null,
+      "app_due": null,
+      "source_url": "https://reporter.nih.gov/project-details/1R01DE036397-01",
+      "has_aims": true
     },
+    {
+      "id": "5a39de03e55ad868",
+      "title": "[Funded ref] Genome Editing Therapy to Treat Vision Loss in Usher Syndrome Type 2A",
+      "sponsor": "National Eye Institute",
+      "mechanism": "R01",
+      "fit_score": 60.1,
+      "fit_rationale": "pillars 22/50 (AAV capsid and enhancer engineering, CNS gene delivery) \u00b7 mechanism 16/20 \u00b7 runway 10/15 \u00b7 budget 10/10 \u00b7 eligibility 2/5",
+      "loi_due": null,
+      "app_due": null,
+      "source_url": "https://reporter.nih.gov/project-details/1R01EY037712-01A1",
+      "has_aims": true
+    },
+    {
+      "id": "9cc237e0d44dfa33",
+      "title": "[Funded ref] Treg-mediated tolerance of dystrophin immunity",
+      "sponsor": "National Institute of Neurological Disorders and Stroke",
+      "mechanism": "R56",
+      "fit_score": 60.0,
+      "fit_rationale": "pillars 30/50 (AAV capsid and enhancer engineering, CNS gene delivery, Cerebrovascular neurosurgery) \u00b7 mechanism 8/20 \u00b7 runway 10/15 \u00b7 budget 10/10 \u00b7 eligibility 2/5",
+      "loi_due": null,
+      "app_due": null,
+      "source_url": "https://reporter.nih.gov/project-details/1R56NS147542-01",
+      "has_aims": false
+    },
+    {
+      "id": "95490791fac0db9c",
+      "title": "[Funded ref] Development of a SCN1B gene replacement therapy for DEE52",
+      "sponsor": "National Institute of Neurological Disorders and Stroke",
+      "mechanism": "R61",
+      "fit_score": 60.0,
+      "fit_rationale": "pillars 30/50 (AAV capsid and enhancer engineering, CNS gene delivery, Cerebrovascular neurosurgery) \u00b7 mechanism 8/20 \u00b7 runway 10/15 \u00b7 budget 10/10 \u00b7 eligibility 2/5",
+      "loi_due": null,
+      "app_due": null,
+      "source_url": "https://reporter.nih.gov/project-details/1R61NS150122-01",
+      "has_aims": false
+    },
+    {
+      "id": "9d0b99531af2cf53",
+      "title": "[Funded ref] Advancing Ex Vivo Gene Therapy: IND-Enabling Studies for ASAH1-related SMA-PME",
+      "sponsor": "National Institute of Neurological Disorders and Stroke",
+      "mechanism": "U01",
+      "fit_score": 60.0,
+      "fit_rationale": "pillars 30/50 (Human ex vivo brain slice culture platform, CNS gene delivery, Cerebrovascular neurosurgery) \u00b7 mechanism 8/20 \u00b7 runway 10/15 \u00b7 budget 10/10 \u00b7 eligibility 2/5",
+      "loi_due": null,
+      "app_due": null,
+      "source_url": "https://reporter.nih.gov/project-details/1U01NS151207-01",
+      "has_aims": false
+    },
+    {
+      "id": "012d97b2d0f165e2",
+      "title": "[Funded ref] Regulation of vascular smooth muscle phenotype by TEADs",
+      "sponsor": "National Heart Lung and Blood Institute",
+      "mechanism": "R01",
+      "fit_score": 59.0,
+      "fit_rationale": "pillars 20/50 (AAV capsid and enhancer engineering, Single-cell / snATAC / scRNA infrastructure) \u00b7 mechanism 16/20 \u00b7 runway 10/15 \u00b7 budget 10/10 \u00b7 eligibility 2/5",
+      "loi_due": null,
+      "app_due": null,
+      "source_url": "https://reporter.nih.gov/project-details/1R01HL176881-01A1",
+      "has_aims": false
+    },
+    {
+      "id": "2f37e46b08f6e770",
+      "title": "[Funded ref] Cell-specific functional impact of tandem repeat length variation in serious mental and neurological disorders",
+      "sponsor": "National Institute on Aging",
+      "mechanism": "R01",
+      "fit_score": 59.0,
+      "fit_rationale": "pillars 20/50 (AAV capsid and enhancer engineering, Single-cell / snATAC / scRNA infrastructure) \u00b7 mechanism 16/20 \u00b7 runway 10/15 \u00b7 budget 10/10 \u00b7 eligibility 2/5",
+      "loi_due": null,
+      "app_due": null,
+      "source_url": "https://reporter.nih.gov/project-details/1R01AG097760-01A1",
+      "has_aims": false
+    },
+    {
+      "id": "e9c48782c2026201",
+      "title": "[Funded ref] Defining a novel role for AAV9 MAAP: modulation of in vivo CNS gene expression",
+      "sponsor": "National Institute of Neurological Disorders and Stroke",
+      "mechanism": "R01",
+      "fit_score": 57.8,
+      "fit_rationale": "pillars 19/50 (AAV capsid and enhancer engineering, Cerebrovascular neurosurgery) \u00b7 mechanism 16/20 \u00b7 runway 10/15 \u00b7 budget 10/10 \u00b7 eligibility 2/5",
+      "loi_due": null,
+      "app_due": null,
+      "source_url": "https://reporter.nih.gov/project-details/1R01NS141796-01A1",
+      "has_aims": false
+    },
+    {
+      "id": "a8ac83c98e9af639",
+      "title": "[Funded ref] Integration of Basal Ganglia and Cerebellar Outputs in Motor Control and Parkinson's Disease",
+      "sponsor": "National Institute of Neurological Disorders and Stroke",
+      "mechanism": "R01",
+      "fit_score": 57.8,
+      "fit_rationale": "pillars 19/50 (Human ex vivo brain slice culture platform, Cerebrovascular neurosurgery) \u00b7 mechanism 16/20 \u00b7 runway 10/15 \u00b7 budget 10/10 \u00b7 eligibility 2/5",
+      "loi_due": null,
+      "app_due": null,
+      "source_url": "https://reporter.nih.gov/project-details/1R01NS151987-01",
+      "has_aims": false
+    },
+    {
+      "id": "0d196700647cbd70",
+      "title": "[Funded ref] Synthetic Biology in Neurons: Chemogenetic Control of Selective Calcium Signaling in Neurons",
+      "sponsor": "National Institute of Neurological Disorders and Stroke",
+      "mechanism": "R21",
+      "fit_score": 57.8,
+      "fit_rationale": "pillars 19/50 (AAV capsid and enhancer engineering, Cerebrovascular neurosurgery) \u00b7 mechanism 16/20 \u00b7 runway 10/15 \u00b7 budget 10/10 \u00b7 eligibility 2/5",
+      "loi_due": null,
+      "app_due": null,
+      "source_url": "https://reporter.nih.gov/project-details/1R21NS142816-01A1",
+      "has_aims": false
+    }
+  ],
+  "top_three": [
+    {
+      "id": "b8c02931bd0e16ff",
+      "title": "[Funded ref] Targeted Gene Delivery to Trigeminal Nociceptors",
+      "sponsor": "National Institute of Dental and Craniofacial Research",
+      "mechanism": "R01",
+      "fit_score": 69.2,
+      "fit_rationale": "pillars 31/50 (AAV capsid and enhancer engineering, CNS gene delivery, Single-cell / snATAC / scRNA infrastructure) \u00b7 mechanism 16/20 \u00b7 runway 10/15 \u00b7 budget 10/10 \u00b7 eligibility 2/5",
+      "loi_due": null,
+      "app_due": null,
+      "source_url": "https://reporter.nih.gov/project-details/1R01DE036397-01",
+      "has_aims": true
+    },
+    {
+      "id": "5a39de03e55ad868",
+      "title": "[Funded ref] Genome Editing Therapy to Treat Vision Loss in Usher Syndrome Type 2A",
+      "sponsor": "National Eye Institute",
+      "mechanism": "R01",
+      "fit_score": 60.1,
+      "fit_rationale": "pillars 22/50 (AAV capsid and enhancer engineering, CNS gene delivery) \u00b7 mechanism 16/20 \u00b7 runway 10/15 \u00b7 budget 10/10 \u00b7 eligibility 2/5",
+      "loi_due": null,
+      "app_due": null,
+      "source_url": "https://reporter.nih.gov/project-details/1R01EY037712-01A1",
+      "has_aims": true
+    },
+    {
+      "id": "9cc237e0d44dfa33",
+      "title": "[Funded ref] Treg-mediated tolerance of dystrophin immunity",
+      "sponsor": "National Institute of Neurological Disorders and Stroke",
+      "mechanism": "R56",
+      "fit_score": 60.0,
+      "fit_rationale": "pillars 30/50 (AAV capsid and enhancer engineering, CNS gene delivery, Cerebrovascular neurosurgery) \u00b7 mechanism 8/20 \u00b7 runway 10/15 \u00b7 budget 10/10 \u00b7 eligibility 2/5",
+      "loi_due": null,
+      "app_due": null,
+      "source_url": "https://reporter.nih.gov/project-details/1R56NS147542-01",
+      "has_aims": false
+    }
+  ],
+  "upcoming_deadlines": [
     {
       "id": "2ab7839358034fda",
       "title": "BWF Career Awards for Medical Scientists",
       "sponsor": "Burroughs Wellcome Fund",
       "due": "2026-11-17",
       "due_kind": "LOI",
-      "days_out": 15,
+      "days_out": 8,
       "fit_score": 43.5,
       "source_url": "https://www.bwfund.org/funding-opportunities/biomedical-sciences/career-awards-for-medical-scientists/"
     },
@@ -29,7 +177,7 @@
       "sponsor": "Damon Runyon Cancer Research Foundation",
       "due": "2026-12-01",
       "due_kind": "LOI",
-      "days_out": 29,
+      "days_out": 22,
       "fit_score": 63.5,
       "source_url": "https://www.damonrunyon.org/for-scientists/application-guidelines/innovation-award"
     },
@@ -39,7 +187,7 @@
       "sponsor": "NIH NINDS",
       "due": "2026-12-11",
       "due_kind": "App",
-      "days_out": 39,
+      "days_out": 32,
       "fit_score": 52.6,
       "source_url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-191.html"
     },
@@ -49,7 +197,7 @@
       "sponsor": "DoD CDMRP",
       "due": "2026-12-21",
       "due_kind": "App",
-      "days_out": 49,
+      "days_out": 42,
       "fit_score": 47.5,
       "source_url": "https://cdmrp.health.mil/funding/pa"
     },
@@ -59,7 +207,7 @@
       "sponsor": "NIH NINDS",
       "due": "2026-12-26",
       "due_kind": "App",
-      "days_out": 54,
+      "days_out": 47,
       "fit_score": 71.6,
       "source_url": "https://grants.nih.gov/grants/guide/pa-files/PA-25-287.html"
     },
@@ -69,7 +217,7 @@
       "sponsor": "McKnight Endowment Fund",
       "due": "2027-01-15",
       "due_kind": "App",
-      "days_out": 74,
+      "days_out": 67,
       "fit_score": 47.5,
       "source_url": "https://www.mcknight.org/programs/the-mcknight-endowment-fund-for-neuroscience/"
     },
@@ -79,11 +227,11 @@
       "sponsor": "Searle Scholars Program",
       "due": "2027-02-04",
       "due_kind": "App",
-      "days_out": 94,
+      "days_out": 87,
       "fit_score": 47.5,
       "source_url": "https://www.searlescholars.net/apply/"
     }
   ],
-  "total_tracked": 74,
-  "new_count": 0
+  "total_tracked": 398,
+  "new_count": 324
 }
